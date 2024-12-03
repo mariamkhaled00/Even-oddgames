@@ -1,0 +1,30 @@
+body {
+  background-color: #ae445a;
+  text-align: center;
+  padding: 100px;
+  margin: 0;
+}
+
+.game {
+  color: aqua;
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 6px 4px 5px;
+}
+
+button {
+  color: antiquewhite;
+  background-color: #e61e46;
+  border-radius: 10px;
+  margin: 15px;
+  padding: 10px;
+  border: none;
+}
+
+button:hover {
+  background-color: rgb(229, 123, 114);
+  color: #ffffff;
+  transition: all 0.5s;
+}
